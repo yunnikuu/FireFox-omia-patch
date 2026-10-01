@@ -1,0 +1,3 @@
+about:support
+about:config
+toolkit.legacyUserProfileCustomizations.stylesheets
